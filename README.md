@@ -8,7 +8,7 @@ pytorch0.3
 * `./ply_c_structure_modeling` - used for semantic labeling  for tanker point cloud based on structure modeling.
 ## Processes 
 This project should use files in "Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs(spg)" and “Cut Pursuit: fast algorithms to learn piecewise constant functions on general weighted graphs”.  
-  1.Use Cut Pursuit to cmake the files in structure modeling.    
+  1.Use Cut Pursuit to cmake the file “ply_c_structure_modeling”.    
   2.Deploy SPG and copy the files in semantic labeling to "learning" in spg.  
 ## Reference By
 [loicland/cut-pursuit](https://github.com/loicland/cut-pursuit)<br>
